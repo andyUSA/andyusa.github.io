@@ -1,0 +1,17 @@
+@media screen and (min-width: 769px) {
+	#slider .flex-viewport, #slider .slides, #slider .slides > li {
+		height: 100vh !important;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	#slider .flex-viewport, #slider .slides, #slider .slides > li {
+		height: 100vh !important;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	#slider .flex-viewport, #slider .slides, #slider .slides > li {
+		height: 100vh !important;
+	}
+}
